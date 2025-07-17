@@ -1,5 +1,10 @@
-# Programa-para-calculos-simples
-### Projeto para calculos como (calcular a media de x e y \n B; calcular a area do trapezio\n C; gerar uma vogal aleatoriamente\n D; somar todos os valores de um vetor qualquer\n S;  )
+# 🧠 Menu Interativo em JavaScript - Exercícios Matemáticos e Aleatórios
 
+Este projeto é um script interativo feito em **JavaScript puro**, que exibe um menu no `prompt()` e executa diferentes funções com base na opção selecionada pelo usuário. Ele trabalha com cálculos matemáticos simples e lógica de sorteio.
 
+---
+
+## 📋 Menu de Opções
+
+O menu oferece cinco opções principais:
 

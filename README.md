@@ -8,3 +8,8 @@ Este projeto é um script interativo feito em **JavaScript puro**, que exibe um 
 
 O menu oferece cinco opções principais:
 
+A - calcular a média de x e y
+B - calcular a área do trapézio
+C - gerar uma vogal aleatoriamente
+D - somar todos os valores de um vetor qualquer
+S - sair do programa
